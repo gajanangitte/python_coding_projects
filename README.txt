@@ -1,2 +1,3 @@
-Hello Git and GitHub
-01@7789#12/12/12234
+Well, this repo consists of some minimal projects
+
+Comment 1 :as on apr 17th : it has 9 sub projects in it
